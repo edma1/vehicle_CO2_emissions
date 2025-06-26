@@ -31,10 +31,10 @@ from scipy.stats import kruskal
 ## Project Structure
 ```
 CO2_Emissions_project/
-├── CO2 Emissions_Canada.csv                             # Contains dataset used for analysis
+├── CO2 Emissions Slides Deck                        # Contains slides deck used for presentation
+├── CO2 Emissions_Canada.csv                         # Contains dataset used for analysis
 ├── Data_Analysis_Notebook_CO2_Emissions_Project/    # Jupyter notebooks with data analysis
 ├── Machine_Learning_Notebook_CO2_Emissions_Project/ # Jupyter notebooks with machine learning code
-├── Sleep_Efficiency_Slides/                         # Contains slides deck used for presentation
 └── README.md                                        # This file
 ```
 
